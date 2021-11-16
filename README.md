@@ -1,2 +1,2 @@
-# github-demo
+# starter-web
 Simple Demo
